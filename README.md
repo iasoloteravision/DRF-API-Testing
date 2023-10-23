@@ -1,5 +1,11 @@
 # How to perform a DRF APITestCase #
 
+
+![Static Badge](https://img.shields.io/badge/Testing-red)
+![Static Badge](https://img.shields.io/badge/Python-yellow)
+![Static Badge](https://img.shields.io/badge/Django_Rest_framework-dark_green)
+![Static Badge](https://img.shields.io/badge/Teravision-blue)
+
 Creating a Django project with a basic API and an APITestCase involves several steps. Below, I'll guide you through creating a simple Django project called "MyAPI" with an API endpoint to retrieve a list of items and provide a test case for it. This example assumes you already have Django installed. If not, you can install it using pip:
 
 ```python
